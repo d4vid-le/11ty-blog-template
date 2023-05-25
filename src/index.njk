@@ -1,0 +1,39 @@
+---
+layout: 'base.njk'
+---
+
+
+<main>
+    <section class="hero">
+        <div class="container flow">
+            <div class="hero__content flow">
+                <h1 class="section-title">Our Vending Partnership is Everything You Need at a Push of a Button</h1>
+                <p>We provide top-tier customer service and full-service vending at no cost to you. Take advantage of high-quality vending machines that are both energy and space efficient for snacks and beverages.</p>
+                <div class="flex-group">
+                    <a href="#featured-articles" class="btn btn--primary">Featured articles</a>
+                    <a href="./blog" class="btn btn--neutral">Most recent articles</a>
+                </div>
+            </div>
+
+            <div>
+                <img src="https://github.com/d4vid-le/11ty-blog-template/blob/Master/src/assets/blog/article-7.jpg" alt="" class="hero__image">
+            </div>
+        </div>
+    </section>
+
+    <section id="featured-articles" class="featured-articles">
+        <div class="container flow">
+            <h2 class="section-title text-center ">Featured articles</h2>
+            <p class="text-center">Here is a sample of articles which I feel give you a good idea of what this site is all about.</p>
+
+            
+      {%- for post in collections.featured | reverse -%}
+
+      {% include 'article-snippet.njk' %}
+
+      {%- endfor -%}
+
+        </div>
+    </section>
+</main>
+

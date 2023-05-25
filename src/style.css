@@ -32,6 +32,10 @@
     --fs-600: 2.25rem;
     --fs-700: 3rem;
   }
+  svg.logo {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+  }
 }
 
 /* //////////////////////
@@ -57,6 +61,10 @@ blockquote,
 dl,
 dd {
   margin: 0;
+}
+
+li, article {
+  list-style: none;
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
@@ -103,6 +111,11 @@ select {
 @media (prefers-reduced-motion: reduce) {
   html:focus-within {
     scroll-behavior: auto;
+    
+  }
+  svg.logo {
+    margin-left: .5rem;
+    margin-bottom: .5rem;
   }
 
   *,
@@ -125,6 +138,13 @@ body {
   color: var(--clr-neutral-900);
 }
 
+html,
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
 h1,
 h2,
 h3 {
@@ -139,7 +159,7 @@ strong {
 
 section,
 .section {
-  padding: min(10vh, 10em) 0;
+  padding: min(6vh, 10em) 0;
 }
 
 
@@ -152,7 +172,7 @@ section,
    and add margin to the top for proper
    spacing */
 
-.flow > *:where(:not(:first-child)) {
+.flow>*:where(:not(:first-child)) {
   margin-top: var(--flow-spacer, 1em);
 }
 
@@ -206,6 +226,7 @@ section,
 }
 
 .nav-list {
+  list-style: none;
   margin: 0;
   padding: 0;
 }
@@ -231,13 +252,23 @@ section,
   color: var(--clr-neutral-100);
   background-color: var(--clr-primary-500);
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 20vh;
 }
+
+footer {
+  margin-top: auto;
+  flex: 0;
+}
+
+
 
 /* //////////////////////
   Homepage
   /////////////////////// */
 
-.hero > div {
+.hero>div {
   display: grid;
   grid-auto-flow: row;
   grid-auto-columns: 1fr;
@@ -252,8 +283,11 @@ section,
 }
 
 @media (min-width: 45em) {
-  .hero > div {
+  .hero>div {
     grid-auto-flow: column;
+  }
+  svg.logo {
+    margin-left: 8rem;
   }
 }
 
@@ -262,6 +296,7 @@ section,
 }
 
 .articles__list {
+  list-style: none;
   --flow-spacer: 3rem;
   margin: 6rem 0;
 }
@@ -270,15 +305,15 @@ section,
   Individual article page
   /////////////////////// */
 
-  .main-article {
-    margin-bottom: 3rem;
-  }
+.main-article {
+  margin-bottom: 3rem;
+}
 
-  .main-article__figure figcaption {
-    margin: 1rem 0;
-    font-size: var(--fs-300);
-    opacity: .9;
-  }
+.main-article__figure figcaption {
+  margin: 1rem 0;
+  font-size: var(--fs-300);
+  opacity: .9;
+}
 
 /* //////////////////////
   Article snippets
@@ -301,9 +336,11 @@ section,
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
 .snippet__title {
   grid-area: title;
 }
+
 .snippet__meta {
   grid-area: meta;
   color: var(--clr-neutral-300);
@@ -330,7 +367,7 @@ section,
 .snippet__title a:hover,
 .snippet__title a:focus {
   color: var(--clr-primary-500);
-} 
+}
 
 @media (min-width: 45em) {
   .snippet {
@@ -367,10 +404,11 @@ section,
   font-weight: var(--fw-700);
   border: 2px solid var(--clr-primary-400);
 }
+
 .btn--primary:hover,
 .btn--primary:focus {
   background: var(--clr-primary-500);
-  border-color: var(--clr-primary-500); 
+  border-color: var(--clr-primary-500);
 }
 
 .btn--neutral {
