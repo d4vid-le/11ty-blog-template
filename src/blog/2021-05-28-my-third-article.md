@@ -1,7 +1,7 @@
 ---
 title: Healthy Snacking Options in Vending Machines
-author: Kevin Powell
-date: 2021-05-28
+author: David Le
+date: 2023-05-28
 tags: ['post', 'featured']
 image: https://raw.githubusercontent.com/d4vid-le/11ty-blog-template/main/src/assets/blog/article-3.jpg
 imageAlt: An image of a sleek, modern vending machine stocked with a variety of snacks and beverages, offering convenience and choice to users.

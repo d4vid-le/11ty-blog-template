@@ -1,11 +1,11 @@
 ---
-title: My Sixth Article
+title: Customization and Personalization for Tailoring Snack Options in Vending Machines
 author: David Le
-date: 2021-06-18
+date: 2023-06-18
 tags: ['post', 'featured']
 image: https://raw.githubusercontent.com/d4vid-le/11ty-blog-template/main/src/assets/blog/article-6.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: An image of a sleek, modern vending machine stocked with a variety of snacks and beverages, offering convenience and choice to users.
+description: Boosting Employee Morale and Productivity with Snacking and Beverage Vending Machines in the Workplace
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Ut sem nulla pharetra diam sit amet nisl. Est velit egestas dui id ornare. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Ut sem viverra aliquet eget. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus a. At augue eget arcu dictum. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Amet aliquam id diam maecenas ultricies mi.

@@ -1,9 +1,9 @@
 ---
-title: My Fourth Article
-author: Kevin Powell
-date: 2021-06-01
+title: Boosting Employee Morale and Productivity with Snacking and Beverage Vending Machines in the Workplace
+author: David Le
+date: 2023-06-01
 image: https://raw.githubusercontent.com/d4vid-le/11ty-blog-template/main/src/assets/blog/article-4.jpg
-imageAlt: This is a test
+imageAlt: An image of a sleek, modern vending machine stocked with a variety of snacks and beverages, offering convenience and choice to users.
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 

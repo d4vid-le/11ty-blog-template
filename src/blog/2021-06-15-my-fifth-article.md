@@ -1,10 +1,10 @@
 ---
-title: My Fifth Article
-author: Kevin Powell
-date: 2021-06-15
+title: Healthy Snacking Options in Vending Machines
+author: David Le
+date: 2023-06-15
 tags: ["post", "featured"]
 image: https://raw.githubusercontent.com/d4vid-le/11ty-blog-template/main/src/assets/blog/article-5.jpg
-imageAlt: This is a test
+imageAlt: An image of a sleek, modern vending machine stocked with a variety of snacks and beverages, offering convenience and choice to users.
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
