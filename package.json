@@ -7,6 +7,10 @@
     "start": "eleventy --serve",
     "build": "eleventy"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4vid-le/11ty-blog-template"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
