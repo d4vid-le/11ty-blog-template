@@ -3,7 +3,7 @@ title: Healthy Snacking Options in Vending Machines
 author: Kevin Powell
 date: 2021-05-28
 tags: ['post', 'featured']
-image: https://github.com/d4vid-le/11ty-blog-template/blob/2fd4dae8ae325ed2f4064c8046e13e4b8d3f9f61/src/assets/blog/article-3.jpg
+image: src/assets/blog/article-3.jpg
 imageAlt: An image of a sleek, modern vending machine stocked with a variety of snacks and beverages, offering convenience and choice to users.
 description: Discover the convenience of healthy snacking on the go with vending machines. This blog post explores the variety of nutritious options available, from protein-packed bars to fresh fruit cups. Make mindful choices and fuel your busy lifestyle with nourishing snacks right at your fingertips.
 ---

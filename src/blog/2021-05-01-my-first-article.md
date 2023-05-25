@@ -2,7 +2,7 @@
 title: Boosting Employee Morale and Productivity with Snacking and Beverage Vending Machines in the Workplace
 author: David Le
 date: 2023-05-25
-image: https://github.com/d4vid-le/11ty-blog-template/blob/2fd4dae8ae325ed2f4064c8046e13e4b8d3f9f61/src/assets/blog/article-1.jpg
+image: src/assets/blog/article-1.jpg
 imageAlt: An image of a sleek, modern vending machine stocked with a variety of snacks and beverages, offering convenience and choice to users.
 description: Explore how snacking and beverage vending machines in the workplace can elevate employee morale and productivity. With convenience and variety at their fingertips, employees enjoy quick access to a range of snacks and beverages, from healthy options to indulgent treats. Discover the transformative power of vending machines in this insightful blog post.
 ---

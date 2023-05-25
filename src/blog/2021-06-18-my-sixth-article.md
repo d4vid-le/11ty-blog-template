@@ -3,7 +3,7 @@ title: My Sixth Article
 author: David Le
 date: 2021-06-18
 tags: ['post', 'featured']
-image: https://github.com/d4vid-le/11ty-blog-template/blob/Master/src/assets/blog/article-6.jpg
+image: src/assets/blog/article-6.jpg
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---

@@ -3,7 +3,7 @@ title: My Fifth Article
 author: Kevin Powell
 date: 2021-06-15
 tags: ["post", "featured"]
-image: https://github.com/d4vid-le/11ty-blog-template/blob/2fd4dae8ae325ed2f4064c8046e13e4b8d3f9f61/src/assets/blog/article-5.jpg
+image: src/assets/blog/article-5.jpg
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---

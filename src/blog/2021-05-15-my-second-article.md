@@ -2,7 +2,7 @@
 title: Customization and Personalization for Tailoring Snack Options in Vending Machines
 author: David Le
 date: 2023-05-26
-image: https://github.com/d4vid-le/11ty-blog-template/blob/2fd4dae8ae325ed2f4064c8046e13e4b8d3f9f61/src/blog/2021-05-15-my-second-article.md
+image: src/assets/blog/article-2.jpg
 imageAlt: An image of a sleek, modern vending machine stocked with a variety of snacks and beverages, offering convenience and choice to users.
 description: Explore the exciting world of customized snacking with vending machines. From tailored dietary options to unique flavor combinations, these machines offer a personalized snacking experience that caters to your individual preferences. Elevate your snacking game and indulge in a customized treat today.
 ---
